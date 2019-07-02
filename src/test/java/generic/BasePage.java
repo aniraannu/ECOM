@@ -34,5 +34,6 @@ public class BasePage {
 		catch(Exception ex) {
 			Reporter.log("Element is not present",true);
 		}
+		
 	}
 }
