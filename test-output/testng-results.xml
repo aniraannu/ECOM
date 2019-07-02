@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15995" started-at="2019-06-30T00:51:47Z" finished-at="2019-06-30T00:52:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15995" started-at="2019-06-30T00:51:47Z" finished-at="2019-06-30T00:52:03Z">
+      <class name="scripts.TestScripts">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:scripts.TestScripts@9629756]" name="preCondition" is-config="true" duration-ms="6775" started-at="2019-06-30T00:51:47Z" finished-at="2019-06-30T00:51:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testSortProductPopularity()[pri:0, instance:scripts.TestScripts@9629756]" name="testSortProductPopularity" duration-ms="9196" started-at="2019-06-30T00:51:54Z" finished-at="2019-06-30T00:52:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSortProductPopularity -->
+      </class> <!-- scripts.TestScripts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
